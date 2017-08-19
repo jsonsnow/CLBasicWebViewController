@@ -1,6 +1,6 @@
 //
 //  YYBasicWebViewController.m
-//  优悦一族
+//  CLBasicWebViewController
 //
 //  Created by liang on 2017/5/24.
 //  Copyright © 2017年 umed. All rights reserved.
